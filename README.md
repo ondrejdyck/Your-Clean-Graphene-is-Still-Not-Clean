@@ -1,0 +1,3 @@
+This repository houses the data and analysis code used in the publication *Your Clean Graphene is Still Not Clean* by Ondrej Dyck, Aisha Okmi, Kai Xiao, Sidong Lei, Andrew R. Lupini, and Stephen Jesse. [Additional details to be added when published]
+
+The analysis code can be found in the `Intensity_analysis.ipynb` notebook, which reads in the data (tif files), performs the analysis, and outputs several figure panels (png and svg file format) used in the publication.
